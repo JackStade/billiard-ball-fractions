@@ -1,0 +1,1 @@
+Click to start a new table, then move the mouse without clicking to set the size. Click when finished. Click on the table to simulate a billiard ball.
